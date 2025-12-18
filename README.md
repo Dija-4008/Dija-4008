@@ -21,9 +21,9 @@ I am an AI engineer to be
 
 ## 🔧 My Tech Stack
 
-![c++](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
-![Java](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
+![c++](https://img.shields.io/badge/c++-%2321759B.svg?logo=c++&logoColor=white)
+![Java](https://img.shields.io/badge/java-%2321759B.svg?logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![python](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
+![python](https://img.shields.io/badge/python-%2321759B.svg?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
