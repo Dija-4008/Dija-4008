@@ -3,7 +3,7 @@
 <!--
 **Dija-4008/Dija-4008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am an AI engineer to be
-- 🔭 I’m currently working on #
+- 🔭 I’m currently working on a RAG chatbot
 - 🌱 I’m currently learning python, html ,css
 - 🏅 I’m looking to collaborate on AI reaserach typically medical related ones!
 - 🤔 I’m looking for help with ###
