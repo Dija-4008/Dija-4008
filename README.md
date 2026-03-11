@@ -7,7 +7,7 @@ I am an AI engineer to be
 - 🌱 I’m currently learning python, html ,css
 - 🏅 I’m looking to collaborate on AI reaserach typically medical related ones!
 - 🤔 I’m looking for help with ###
-- 💬 discuss with/Ask me about LLMS, DL, AI
+- 💬 discuss with/Ask me about LLMs, DL, AI
 - 📫 How to reach me: k.nemmar16@icloud.com
 -->
 ---> An AI engineer to be
