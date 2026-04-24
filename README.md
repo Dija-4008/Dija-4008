@@ -8,7 +8,7 @@ I am an AI engineer to be
 - 🏅 I’m looking to collaborate on AI reaserach typically medical related ones!
 - 🤔 I’m looking for help with ###
 - 💬 discuss with/Ask me about LLMs, DL, AI
-- 📫 How to reach me: k.nemmar16@icloud.com
+- 📫 How to reach me: luckyu2026@gmail.com
 -->
 ---> An AI engineer to be
 - 🔭 I’m currently working on #skills#
