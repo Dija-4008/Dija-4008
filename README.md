@@ -26,4 +26,5 @@ I am an AI engineer to be
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![python](https://img.shields.io/badge/python-%2321759B.svg?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![streamlit]
 
